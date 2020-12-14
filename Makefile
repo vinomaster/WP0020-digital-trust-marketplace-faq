@@ -36,9 +36,9 @@
 # -----------------------------------------------------------------------------
 
 # Repo Instance Specific
-REPO_NAME ?= mkdocs-material
-UPSTREAM_REPO ?= https://github.com/trustoverip/mkdocs-material.git
-DEV_SITE_PORT ?= 7500
+REPO_NAME ?= WP0020-digital-trust-marketplace-faq
+UPSTREAM_REPO ?= https://github.com/trustoverip/WP0020-digital-trust-marketplace-faq.git
+DEV_SITE_PORT ?= 7520
 
 # Template Repo Defaults
 TEMPLATE_REPO ?= https://github.com/trustoverip/mkdocs-material.git
